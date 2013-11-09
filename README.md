@@ -1,5 +1,13 @@
 See [rosjava_core](https://github.com/rosjava/rosjava_core) readme.
 
+### Master Branch ###
+
+Note that there is no master branch. Rosjava messages creates message artifacts from the
+released rosdistros. Subsequently there is no meaning for a master branch. 
+
+If building rosjava sources from master branches, use the branch from rosjava_messages that
+corresponds to the rosdistro that you are compiling with.
+
 ### Message Artifact Generation ###
 
 *Your regular rosjava message project does not need this complexity!*

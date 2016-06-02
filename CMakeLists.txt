@@ -46,6 +46,7 @@ generate_rosjava_messages(
     map_store                # ros-planning/map_store
 
     roscpp                   # !!!!!!! REMOVE THIS ONCE https://github.com/ros-planning/navigation/pull/312 is fixed! !!!!!!!!
+    xrpmove_msgs
 )
 
 catkin_package()

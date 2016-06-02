@@ -51,6 +51,7 @@
        https://github.com/ros-planning/navigation/pull/312 is fixed and released.
   -->
   <build_depend>roscpp</build_depend>           # ros-planning/navigation
+  <build_depend>xrpmove_msgs</build_depend>
   
   <run_depend>rosjava_build_tools</run_depend>
   <run_depend>genjava</run_depend>

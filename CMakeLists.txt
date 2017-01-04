@@ -49,6 +49,7 @@ generate_rosjava_messages(
     stratom_msgs
     stratom_debug_msgs
     ASOCUMsgs
+    geographic_msgs
 )
 
 catkin_package()
